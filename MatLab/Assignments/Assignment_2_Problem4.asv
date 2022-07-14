@@ -1,0 +1,13 @@
+%% Assignment 2 Problem 4
+
+a = 0;
+b = 0;
+
+while a < 20
+    x = rand();
+    a = a + x;
+    b = b + 1;
+
+end
+
+disp(b);
