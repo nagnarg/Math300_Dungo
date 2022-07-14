@@ -9,3 +9,8 @@ disp(I);
 disp(H1);
 disp(H2);
 
+H1A = H.^2;
+H2A = H^2;
+
+disp(H1);
+disp(H2);
